@@ -5,7 +5,7 @@ const printName = (name = name, times = 10) => {
     console.log(name, times);
   }
 
-  return 0;
+  return null;
 };
 
 printName(name);
