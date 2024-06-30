@@ -6,6 +6,8 @@ const printName = (name = name, times = 10) => {
     console.log(`${name} with ${subject}`, times);
   }
 
+  console.log("Be!");
+
   return undefined;
 };
 
